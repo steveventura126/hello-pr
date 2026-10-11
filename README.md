@@ -8,7 +8,7 @@ A tiny practice project for learning how pull requests work.
 node greet.js Ada
 ```
 
-This prints a greeting. If you leave out the name, it greets the wrold.
+This prints a greeting. If you leave out the name, it greets the world.
 
 ## Tests
 
